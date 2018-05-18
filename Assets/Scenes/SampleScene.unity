@@ -239,7 +239,7 @@ GameObject:
   m_Component:
   - component: {fileID: 390364941}
   m_Layer: 0
-  m_Name: ArenaNounds
+  m_Name: ArenaBounds
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
