@@ -7,7 +7,7 @@ public class PlayerController : MonoBehaviour {
    private float maxSpeed = 5;
 
    void Start() {
-
+       Debug.Log("");
    }
 
    void Update() {
